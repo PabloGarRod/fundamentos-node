@@ -1,2 +1,2 @@
-console.log(global.miVariable=3)
-console.log(miVariable)
+console.log((global.miVariable = 3));
+console.log(miVariable);
